@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+.nav a{
+  text-decoration: none;
+  padding: 2%;
+}
+.nav{
+ background-color: skyblue;
+ color: pink;
+ text-align: center;
+}
+
